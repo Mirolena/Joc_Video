@@ -4,17 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
-  - Weapon
+  - Spike
+  - MarginRight
+  - MarginLeft
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - 
   - Water
   - UI
-  - Player
-  - Enemy
+  - 
+  - 
   - 
   - 
   - 
@@ -42,7 +43,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: New Layer 1
-    uniqueID: 3398195173
     locked: 0
